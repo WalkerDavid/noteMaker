@@ -1,5 +1,7 @@
 #include "notemaker.h"
-#include <QtWidgets/QApplication>
+//#include <QtWidgets/QApplication>
+#include <QApplication>
+#include <QDebug>
 
 int main(int argc, char *argv[])
 {
